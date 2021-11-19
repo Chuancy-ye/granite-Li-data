@@ -3,5 +3,5 @@ title: A critical review of lithium isotope analytical methods, with implication
 data: Lithium isotopic compositions of granites and pegmatites from published papers worldwide
 
 
-<---note----->
+<---note----->\n
 Code is being refined...
